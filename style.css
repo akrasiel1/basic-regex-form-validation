@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial';
+}
+form {
+    background-color: #374986;
+    text-align: center;
+    padding: 40px;
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    color: #f1f1f1;
+}
+
+input[type=submit] {
+    margin-top: 20px;
+}
+
+.success {
+    outline: solid 2px #32cd32;
+}
+
+.error {
+    outline: solid 2px #dc143c;
+}
+
